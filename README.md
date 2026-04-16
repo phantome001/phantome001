@@ -24,7 +24,7 @@
 - 🗄️ Experienced with modern cloud databases like **Supabase** and **PostgreSQL**.
 - 🎓 Passionate about continuous learning, UI/UX aesthetics, and system architecture.
 - 💬 Ask me about: **React, Supabase, Flutter, System Design**.
-- 📫 How to reach me: **[Telegram: @seifski](https://t.me/seifski)**
+- 📫 How to reach me: **[Telegram: @seifski21](https://t.me/seifski21)**
 
 ---
 
