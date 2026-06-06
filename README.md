@@ -1,74 +1,163 @@
+# 👋 السلام عليكم، أنا Seifeddine
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=60&fontAlignY=38&desc=I'm%20Seif%20Eddine%2C%20a%20Full-Stack%20Developer&descAlignY=61&descAlign=62" />
-</div>
 
-<h1 align="center">Hi there, I'm Seif Eddine 👨‍💻</h1>
-<h3 align="center">Passionate Full-Stack Developer from Skikda, Algeria 🇩🇿</h3>
+### 🚀 Full Stack Developer | 🤖 AI & ML Enthusiast | 🔒 Cybersecurity Advocate
 
-<p align="center">
-  <a href="https://github.com/phantome001">
-    <img src="https://komarev.com/ghpvc/?username=phantome001&label=Profile%20views&color=0e75b6&style=flat" alt="phantome001" />
-  </a>
-</p>
-
-<p align="center">
-  I'm a software developer specialized in building modern, scalable, and beautifully designed web and mobile applications. I enjoy solving complex problems and taking projects from idea to production.
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/phantome001?style=social)](https://github.com/phantome001)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seifeddine)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=web)](https://c-seifeddine-portfolio.vercel.app)
 
 ---
 
-## 🚀 About Me
+</div>
 
-- 🏢 I'm currently working on building advanced full-stack applications like **University Attendance Systems** and **EduCypher**.
-- 💻 I specialize in **Frontend** (React, Tailwind), **Backend** (FastAPI, Node.js), and **Mobile** (Flutter).
-- 🗄️ Experienced with modern cloud databases like **Supabase** and **PostgreSQL**.
-- 🎓 Passionate about continuous learning, UI/UX aesthetics, and system architecture.
-- 💬 Ask me about: **React, Supabase, Flutter, System Design**.
-- 📫 How to reach me: **[Telegram: @seifski21](https://t.me/seifski21)**
+## 🎯 من أنا؟
+
+مطور Full Stack شغوف بـ **التكنولوجيا والابتكار**. متخصص في بناء تطبيقات ويب وموبايل مقبولة الجودة، مع اهتمام خاص بـ **AI، الأمان السيبراني، والحلول الطبية التقنية**.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ المهارات التقنية
 
-<p align="center">
-  <br>
-  <b>Frontend</b><br>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></a>
-  <br><br>
-  <b>Backend & Database</b><br>
-  <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
-  <br><br>
-  <b>Mobile & Others</b><br>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
-</p>
+### 🎨 Frontend
+- **React & Next.js 15** - تطبيقات ويب حديثة وسريعة
+- **TypeScript** - كود آمن وقابل للصيانة
+- **Tailwind CSS & Framer Motion** - تصاميم مذهلة
+- **Flutter** - تطبيقات موبايل
+
+### 🔧 Backend
+- **FastAPI** - APIs سريعة وموثوقة
+- **Python** - أتمتة وأدوات ذكية
+- **C++** - برامج عالية الأداء
+- **Node.js** - خوادم قوية
+
+### 🧠 AI & Machine Learning
+- **Speech Recognition** - تقنية التعرف على الكلام
+- **NLP** - معالجة اللغة الطبيعية
+- **Computer Vision** - رؤية الآلة
+
+### 🔐 Cybersecurity
+- **URL & Threat Scanning** - فحص الأمان
+- **Security Tools** - أدوات حماية متقدمة
+- **API Security** - أمان الواجهات البرمجية
+
+---
+
+## 🚀 المشاريع المميزة
+
+### 💼 **DentiDZ** - تطبيق حجز مواعيد الأسنان
+```
+FastAPI | Next.js | Flutter | Multi-tenant SaaS
+```
+منصة حجز مواعيد متقدمة للعيادات في الجزائر
+🔗 [عرض المستودع](https://github.com/phantome001/DentiDZ)
 
 ---
 
-## 📊 GitHub Stats
+### 🎙️ **Chaplin** - تقنية التعرف على الكلام الصامت
+```
+AI | Speech Recognition | Machine Learning
+```
+أداة ذكية للتعرف على الكلام الصامت (Silent Speech Recognition)
+🔗 [عرض المستودع](https://github.com/phantome001/chaplin)
+
+---
+
+### 🏥 **MedRush Challenge** - لعبة طبية تعليمية
+```
+Next.js | TypeScript | Educational Gaming
+```
+منصة تعليمية طبية تفاعلية
+🔗 [عرض المستودع](https://github.com/phantome001/medrush-challenge)
+
+---
+
+### 🌐 **c-seifeddine-portfolio** - بورتفوليو احترافي
+```
+Next.js 15 | Tailwind CSS | Framer Motion
+```
+بورتفوليو شخصي عصري وجميل
+🔗 [عرض المستودع](https://github.com/phantome001/c-seifeddine-portfolio)
+
+---
+
+### 🔒 **SafeScanBot25** - بوت فحص الروابط
+```
+Python | Telegram Bot | VirusTotal API
+```
+بوت ذكي لفحص الروابط والملفات
+🔗 [عرض المستودع](https://github.com/phantome001/SafeScanBot25)
+
+---
+
+### 📚 **Educational Centre Management** - نظام إدارة مراكز تعليمية
+```
+TypeScript | Full Stack | Management System
+```
+نظام شامل لإدارة العمليات التعليمية
+🔗 [عرض المستودع](https://github.com/phantome001/educational-centre-management)
+
+---
+
+### 👨‍⚕️ **Surgeon Portfolio** - موقع الطبيب
+```
+Next.js | TypeScript | Professional Website
+```
+موقع احترافي للدكتور غنوش زين الدين - جراح متخصص
+🔗 [عرض المستودع](https://github.com/phantome001/surgeon-portfolio)
+
+---
+
+## 📊 الإحصائيات
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phantome001&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Seif's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phantome001&theme=radium&hide_border=true&background=0D1117" alt="Seif's GitHub Streak" width="48%" />
-</div>
 
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phantome001&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantome001&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phantome001&layout=compact&theme=radical)
+
 </div>
 
 ---
+
+## 🎓 التخصصات
+
+- ✅ تطوير تطبيقات ويب Full Stack
+- ✅ تطوير تطبيقات موبايل (Flutter)
+- ✅ AI و Machine Learning
+- ✅ الأمان السيبراني
+- ✅ تصميم واجهات مستخدم جميلة
+- ✅ SaaS و Multi-tenant Systems
+- ✅ الحلول الطبية التقنية
+
+---
+
+## 🤝 التعاون
+
+أنا مهتم بـ:
+- 🔗 مشاريع Open Source
+- 💡 المشاريع الطبية والتكنولوجية
+- 🚀 تطبيقات SaaS المبتكرة
+- 🧠 مشاريع AI و Machine Learning
+
+---
+
+## 📫 تواصل معي
+
+- 💻 **البريد الإلكتروني:** [seifeddine@example.com](mailto:seifeddine@example.com)
+- 🔗 **LinkedIn:** [/in/seifeddine](https://linkedin.com/in/seifeddine)
+- 🌐 **البورتفوليو:** [c-seifeddine-portfolio](https://c-seifeddine-portfolio.vercel.app)
+- 🐙 **GitHub:** [@phantome001](https://github.com/phantome001)
+
+---
+
 <div align="center">
-  <i>Let's connect and build something awesome together! 🚀</i>
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+### ⭐ شكراً لزيارتك! لا تنسَ إضافة نجمة للمشاريع التي أعجبتك 🌟
+
+![Visitors](https://komarev.com/ghpvc/?username=phantome001&color=blue)
+
+**Made with ❤️ by Seifeddine**
+
 </div>
