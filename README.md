@@ -138,6 +138,8 @@ Pull requests currently under review in the frameworks I depend on:
 
 I document the problems I solve — package releases, framework contributions, and mobile engineering notes — on [**Medium**](https://medium.com/@cheddine27) and [**cseifeddine.tech**](https://cseifeddine.tech/).
 
+**Latest article:** [**I Contributed to flutter/flutter — Here's How I Did It**](https://medium.com/@cheddine27/i-contributed-to-flutter-flutter-heres-how-i-did-it-e63cdec51134) — how a six-year-old `PageController` issue became my first framework PR.
+
 ---
 
 <div align="center">
