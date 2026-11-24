@@ -32,6 +32,7 @@ Outside product work I maintain **open-source packages on [pub.dev](https://pub.
       <strong>Gregorian ↔ Hijri conversion, done right.</strong>
       <p>Convert between Gregorian and Hijri dates and format them in Arabic or English, with pure Dart and Flutter support.</p>
       <a href="https://pub.dev/packages/hijri_toolkit"><img alt="hijri_toolkit version" src="https://img.shields.io/pub/v/hijri_toolkit?style=flat-square&label=pub.dev&logo=dart&logoColor=white&color=0175C2" /></a>
+      <p>📦 <a href="https://pub.dev/packages/hijri_toolkit">pub.dev/packages/hijri_toolkit</a></p>
       <p><sub>Pure Dart · Calendar math · RTL-ready formatting</sub></p>
     </td>
     <td width="50%" valign="top">
@@ -39,6 +40,7 @@ Outside product work I maintain **open-source packages on [pub.dev](https://pub.
       <strong>Remember your UI across rebuilds and restarts.</strong>
       <p>Persists Flutter UI state so users never lose their place — no plugins, no native code, pure Flutter.</p>
       <a href="https://pub.dev/packages/ui_memory"><img alt="ui_memory version" src="https://img.shields.io/pub/v/ui_memory?style=flat-square&label=pub.dev&logo=dart&logoColor=white&color=0175C2" /></a>
+      <p>📦 <a href="https://pub.dev/packages/ui_memory">pub.dev/packages/ui_memory</a></p>
       <p><sub>State restoration · Pure Flutter · No plugins</sub></p>
     </td>
   </tr>
@@ -48,6 +50,7 @@ Outside product work I maintain **open-source packages on [pub.dev](https://pub.
       <strong>Never lose what the user typed.</strong>
       <p>Automatically saves and restores Flutter form drafts, so an accidental navigation or crash never wipes an application.</p>
       <a href="https://pub.dev/packages/form_draft"><img alt="form_draft version" src="https://img.shields.io/pub/v/form_draft?style=flat-square&label=pub.dev&logo=dart&logoColor=white&color=0175C2" /></a>
+      <p>📦 <a href="https://pub.dev/packages/form_draft">pub.dev/packages/form_draft</a></p>
       <p><sub>Auto-save · Recovery · Pure Flutter</sub></p>
     </td>
     <td width="50%" valign="top">
@@ -55,6 +58,7 @@ Outside product work I maintain **open-source packages on [pub.dev](https://pub.
       <strong>Diagnose Flutter mobile projects from the terminal.</strong>
       <p>A pure Dart CLI that detects the common Android and iOS configuration mistakes that break builds and releases.</p>
       <a href="https://pub.dev/packages/flutter_mobile_doctor"><img alt="flutter_mobile_doctor version" src="https://img.shields.io/pub/v/flutter_mobile_doctor?style=flat-square&label=pub.dev&logo=dart&logoColor=white&color=0175C2" /></a>
+      <p>📦 <a href="https://pub.dev/packages/flutter_mobile_doctor">pub.dev/packages/flutter_mobile_doctor</a></p>
       <p><sub>Pure Dart CLI · Build diagnostics · CI-friendly</sub></p>
     </td>
   </tr>
