@@ -1,163 +1,125 @@
-# 👋 السلام عليكم، أنا Seifeddine
-
 <div align="center">
+  <img src="assets/banner.svg" alt="Chebel Seif — Lead Mobile Engineer" width="100%"/>
 
-### 🚀 Full Stack Developer | 🤖 AI & ML Enthusiast | 🔒 Cybersecurity Advocate
+  <p>
+    <strong>Lead Mobile Engineer</strong> · Flutter &amp; Dart · Open-source packages · Framework contributions
+  </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/phantome001?style=social)](https://github.com/phantome001)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seifeddine)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=web)](https://c-seifeddine-portfolio.vercel.app)
-
----
-
+  <p>
+    <a href="https://github.com/phantome001"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@phantome001-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
+    <a href="https://pub.dev/packages/hijri_toolkit"><img alt="pub.dev" src="https://img.shields.io/badge/pub.dev-4%20packages-0175C2?style=flat-square&logo=dart&logoColor=white" /></a>
+    <a href="https://github.com/flutter/flutter/pull/197215"><img alt="Flutter PR" src="https://img.shields.io/badge/flutter%2Fflutter-PR%20%23197215-42A5F5?style=flat-square&logo=flutter&logoColor=white" /></a>
+    <a href="https://cseifeddine.tech/"><img alt="Blog" src="https://img.shields.io/badge/Blog-cseifeddine.tech-1F6FEB?style=flat-square&logo=rss&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/seifeddine"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  </p>
 </div>
 
-## 🎯 من أنا؟
+I design and ship mobile products with **Flutter**, and I build the tooling that other developers rely on. My day-to-day work sits at the intersection of **mobile architecture, state management, and developer experience** at [@THODZ-SOLUTIONS](https://github.com/THODZ-SOLUTIONS).
 
-مطور Full Stack شغوف بـ **التكنولوجيا والابتكار**. متخصص في بناء تطبيقات ويب وموبايل مقبولة الجودة، مع اهتمام خاص بـ **AI، الأمان السيبراني، والحلول الطبية التقنية**.
-
----
-
-## 🛠️ المهارات التقنية
-
-### 🎨 Frontend
-- **React & Next.js 15** - تطبيقات ويب حديثة وسريعة
-- **TypeScript** - كود آمن وقابل للصيانة
-- **Tailwind CSS & Framer Motion** - تصاميم مذهلة
-- **Flutter** - تطبيقات موبايل
-
-### 🔧 Backend
-- **FastAPI** - APIs سريعة وموثوقة
-- **Python** - أتمتة وأدوات ذكية
-- **C++** - برامج عالية الأداء
-- **Node.js** - خوادم قوية
-
-### 🧠 AI & Machine Learning
-- **Speech Recognition** - تقنية التعرف على الكلام
-- **NLP** - معالجة اللغة الطبيعية
-- **Computer Vision** - رؤية الآلة
-
-### 🔐 Cybersecurity
-- **URL & Threat Scanning** - فحص الأمان
-- **Security Tools** - أدوات حماية متقدمة
-- **API Security** - أمان الواجهات البرمجية
+Outside product work I maintain **open-source packages on [pub.dev](https://pub.dev)** that each solve one concrete problem — date conversion, UI state persistence, form-draft recovery, and mobile project diagnostics — and I contribute fixes to the frameworks I use every day, including **[`flutter/flutter`](https://github.com/flutter/flutter/pull/197215)** and **[`dart_pdf`](https://github.com/DavBfr/dart_pdf/pulls)**.
 
 ---
 
-## 🚀 المشاريع المميزة
+## 📦 Open-source packages
 
-### 💼 **DentiDZ** - تطبيق حجز مواعيد الأسنان
-```
-FastAPI | Next.js | Flutter | Multi-tenant SaaS
-```
-منصة حجز مواعيد متقدمة للعيادات في الجزائر
-🔗 [عرض المستودع](https://github.com/phantome001/DentiDZ)
-
----
-
-### 🎙️ **Chaplin** - تقنية التعرف على الكلام الصامت
-```
-AI | Speech Recognition | Machine Learning
-```
-أداة ذكية للتعرف على الكلام الصامت (Silent Speech Recognition)
-🔗 [عرض المستودع](https://github.com/phantome001/chaplin)
-
----
-
-### 🏥 **MedRush Challenge** - لعبة طبية تعليمية
-```
-Next.js | TypeScript | Educational Gaming
-```
-منصة تعليمية طبية تفاعلية
-🔗 [عرض المستودع](https://github.com/phantome001/medrush-challenge)
-
----
-
-### 🌐 **c-seifeddine-portfolio** - بورتفوليو احترافي
-```
-Next.js 15 | Tailwind CSS | Framer Motion
-```
-بورتفوليو شخصي عصري وجميل
-🔗 [عرض المستودع](https://github.com/phantome001/c-seifeddine-portfolio)
-
----
-
-### 🔒 **SafeScanBot25** - بوت فحص الروابط
-```
-Python | Telegram Bot | VirusTotal API
-```
-بوت ذكي لفحص الروابط والملفات
-🔗 [عرض المستودع](https://github.com/phantome001/SafeScanBot25)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌙 <a href="https://github.com/phantome001/hijri_toolkit">hijri_toolkit</a></h3>
+      <strong>Gregorian ↔ Hijri conversion, done right.</strong>
+      <p>Convert between Gregorian and Hijri dates and format them in Arabic or English, with pure Dart and Flutter support.</p>
+      <a href="https://pub.dev/packages/hijri_toolkit"><img alt="hijri_toolkit version" src="https://img.shields.io/pub/v/hijri_toolkit?style=flat-square&label=pub.dev&logo=dart&logoColor=white&color=0175C2" /></a>
+      <p><sub>Pure Dart · Calendar math · RTL-ready formatting</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/phantome001/ui_memory">ui_memory</a></h3>
+      <strong>Remember your UI across rebuilds and restarts.</strong>
+      <p>Persists Flutter UI state so users never lose their place — no plugins, no native code, pure Flutter.</p>
+      <a href="https://pub.dev/packages/ui_memory"><img alt="ui_memory version" src="https://img.shields.io/pub/v/ui_memory?style=flat-square&label=pub.dev&logo=dart&logoColor=white&color=0175C2" /></a>
+      <p><sub>State restoration · Pure Flutter · No plugins</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/phantome001/form_draft">form_draft</a></h3>
+      <strong>Never lose what the user typed.</strong>
+      <p>Automatically saves and restores Flutter form drafts, so an accidental navigation or crash never wipes an application.</p>
+      <a href="https://pub.dev/packages/form_draft"><img alt="form_draft version" src="https://img.shields.io/pub/v/form_draft?style=flat-square&label=pub.dev&logo=dart&logoColor=white&color=0175C2" /></a>
+      <p><sub>Auto-save · Recovery · Pure Flutter</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩺 <a href="https://github.com/phantome001/flutter_mobile_doctor">flutter_mobile_doctor</a></h3>
+      <strong>Diagnose Flutter mobile projects from the terminal.</strong>
+      <p>A pure Dart CLI that detects the common Android and iOS configuration mistakes that break builds and releases.</p>
+      <a href="https://pub.dev/packages/flutter_mobile_doctor"><img alt="flutter_mobile_doctor version" src="https://img.shields.io/pub/v/flutter_mobile_doctor?style=flat-square&label=pub.dev&logo=dart&logoColor=white&color=0175C2" /></a>
+      <p><sub>Pure Dart CLI · Build diagnostics · CI-friendly</sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📚 **Educational Centre Management** - نظام إدارة مراكز تعليمية
-```
-TypeScript | Full Stack | Management System
-```
-نظام شامل لإدارة العمليات التعليمية
-🔗 [عرض المستودع](https://github.com/phantome001/educational-centre-management)
+## 🧩 Framework contributions
+
+Pull requests currently under review in the frameworks I depend on:
+
+| Repository | PR | What it fixes |
+|---|---|---|
+| [`flutter/flutter`](https://github.com/flutter/flutter/pull/197215) | [#197215](https://github.com/flutter/flutter/pull/197215) | Optional default `duration` and `curve` for `PageController.animateToPage`, `nextPage`, `previousPage` (fixes [#37568](https://github.com/flutter/flutter/issues/37568)) |
+| [`DavBfr/dart_pdf`](https://github.com/DavBfr/dart_pdf/pull/2033) | [#2033](https://github.com/DavBfr/dart_pdf/pull/2033) | Correct table borders in right-to-left layouts |
+| [`DavBfr/dart_pdf`](https://github.com/DavBfr/dart_pdf/pull/2034) | [#2034](https://github.com/DavBfr/dart_pdf/pull/2034) | Decoration fill alpha ignored in painted output |
+| [`DavBfr/dart_pdf`](https://github.com/DavBfr/dart_pdf/pull/2035) | [#2035](https://github.com/DavBfr/dart_pdf/pull/2035) | Isolated Arabic letter aliases in font cmap (fixes [#2000](https://github.com/DavBfr/dart_pdf/issues/2000)) |
 
 ---
 
-### 👨‍⚕️ **Surgeon Portfolio** - موقع الطبيب
-```
-Next.js | TypeScript | Professional Website
-```
-موقع احترافي للدكتور غنوش زين الدين - جراح متخصص
-🔗 [عرض المستودع](https://github.com/phantome001/surgeon-portfolio)
+## 🛠️ Engineering toolkit
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile &amp; languages</h3>
+      <p>
+        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+        <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p><sub>Flutter · Dart · Kotlin · Swift · Java · JavaScript</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Architecture &amp; delivery</h3>
+      <p>
+        <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img alt="GitHub Actions" src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+      <p><sub>Clean architecture · State management · Widget &amp; unit testing · CI/CD · REST APIs · Release engineering</sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 الإحصائيات
+## 📊 GitHub activity
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phantome001&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phantome001&layout=compact&theme=radical)
-
+  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=phantome001&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" />
+  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantome001&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </div>
 
 ---
 
-## 🎓 التخصصات
+## 📝 Writing
 
-- ✅ تطوير تطبيقات ويب Full Stack
-- ✅ تطوير تطبيقات موبايل (Flutter)
-- ✅ AI و Machine Learning
-- ✅ الأمان السيبراني
-- ✅ تصميم واجهات مستخدم جميلة
-- ✅ SaaS و Multi-tenant Systems
-- ✅ الحلول الطبية التقنية
-
----
-
-## 🤝 التعاون
-
-أنا مهتم بـ:
-- 🔗 مشاريع Open Source
-- 💡 المشاريع الطبية والتكنولوجية
-- 🚀 تطبيقات SaaS المبتكرة
-- 🧠 مشاريع AI و Machine Learning
-
----
-
-## 📫 تواصل معي
-
-- 💻 **البريد الإلكتروني:** [seifeddine@example.com](mailto:seifeddine@example.com)
-- 🔗 **LinkedIn:** [/in/seifeddine](https://linkedin.com/in/seifeddine)
-- 🌐 **البورتفوليو:** [c-seifeddine-portfolio](https://c-seifeddine-portfolio.vercel.app)
-- 🐙 **GitHub:** [@phantome001](https://github.com/phantome001)
+I document the problems I solve — package releases, framework contributions, and mobile engineering notes — on [**cseifeddine.tech**](https://cseifeddine.tech/).
 
 ---
 
 <div align="center">
-
-### ⭐ شكراً لزيارتك! لا تنسَ إضافة نجمة للمشاريع التي أعجبتك 🌟
-
-![Visitors](https://komarev.com/ghpvc/?username=phantome001&color=blue)
-
-**Made with ❤️ by Seifeddine**
-
+  <sub><strong>SOLVE ONE REAL PROBLEM · TEST IT · SHIP IT</strong></sub>
+  <br/><br/>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=phantome001&color=1F6FEB" />
 </div>
