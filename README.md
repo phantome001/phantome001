@@ -6,21 +6,24 @@
   </p>
 
   <p>
-    <a href="https://github.com/phantome001"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@phantome001-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
-    <a href="https://pub.dev/packages/hijri_toolkit"><img alt="pub.dev" src="https://img.shields.io/badge/pub.dev-4%20packages-0175C2?style=flat-square&logo=dart&logoColor=white" /></a>
-    <a href="https://github.com/flutter/flutter/pull/197215"><img alt="Flutter PR" src="https://img.shields.io/badge/flutter%2Fflutter-PR%20%23197215-42A5F5?style=flat-square&logo=flutter&logoColor=white" /></a>
-    <a href="https://cseifeddine.tech/"><img alt="Blog" src="https://img.shields.io/badge/Blog-cseifeddine.tech-1F6FEB?style=flat-square&logo=rss&logoColor=white" /></a>
+    <a href="https://github.com/phantome001"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@phantome001-0D1117?style=flat-square&logo=github&logoColor=white&label=GitHub" /></a>
+    <a href="https://pub.dev/publishers/thodz.com/packages"><img alt="pub.dev publisher" src="https://img.shields.io/badge/pub.dev-thodz.com-0175C2?style=flat-square&logo=dart&logoColor=white&label=publisher" /></a>
+    <a href="https://pub.dev/packages/hijri_toolkit"><img alt="4 packages" src="https://img.shields.io/badge/packages-4%20published-0175C2?style=flat-square&logo=dart&logoColor=white" /></a>
+    <a href="https://github.com/flutter/flutter/pull/197215"><img alt="Flutter PR" src="https://img.shields.io/badge/PR-%23197215-42A5F5?style=flat-square&logo=flutter&logoColor=white&label=flutter%2Fflutter" /></a>
+    <a href="https://cseifeddine.tech/"><img alt="Blog" src="https://img.shields.io/badge/Blog-cseifeddine.tech-1F6FEB?style=flat-square&logo=rss&logoColor=white&label=Blog" /></a>
     <a href="https://linkedin.com/in/seifeddine"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   </p>
 </div>
 
 I design and ship mobile products with **Flutter**, and I build the tooling that other developers rely on. My day-to-day work sits at the intersection of **mobile architecture, state management, and developer experience** at [@THODZ-SOLUTIONS](https://github.com/THODZ-SOLUTIONS).
 
-Outside product work I maintain **open-source packages on [pub.dev](https://pub.dev)** that each solve one concrete problem — date conversion, UI state persistence, form-draft recovery, and mobile project diagnostics — and I contribute fixes to the frameworks I use every day, including **[`flutter/flutter`](https://github.com/flutter/flutter/pull/197215)** and **[`dart_pdf`](https://github.com/DavBfr/dart_pdf/pulls)**.
+Outside product work I maintain **open-source packages on [pub.dev](https://pub.dev/publishers/thodz.com/packages)** that each solve one concrete problem — date conversion, UI state persistence, form-draft recovery, and mobile project diagnostics — and I contribute fixes to the frameworks I use every day, including **[`flutter/flutter`](https://github.com/flutter/flutter/pull/197215)** and **[`dart_pdf`](https://github.com/DavBfr/dart_pdf/pulls)**.
 
 ---
 
 ## 📦 Open-source packages
+
+> All packages are published under the **[thodz.com](https://pub.dev/publishers/thodz.com/packages)** publisher on pub.dev.
 
 <table>
   <tr>
@@ -77,26 +80,40 @@ Pull requests currently under review in the frameworks I depend on:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Mobile &amp; languages</h3>
+      <h3>💻 Languages &amp; frameworks</h3>
       <p>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-        <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
-      <p><sub>Flutter · Dart · Kotlin · Swift · Java · JavaScript</sub></p>
+      <p><sub>Flutter · Dart · JavaScript · TypeScript · Python · React</sub></p>
     </td>
     <td width="50%" valign="top">
+      <h3>☁️ Platform &amp; services</h3>
+      <p>
+        <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black" />
+        <img alt="iOS" src="https://img.shields.io/badge/iOS-181717?style=flat-square&logo=apple&logoColor=white" />
+        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black" />
+      </p>
+      <p><sub><b>Firebase:</b> Auth · FCM · Firestore · Crashlytics · Analytics · Remote Config</sub></p>
+      <p><sub><b>Supabase:</b> Auth · Postgres · Storage · Realtime · Edge Functions</sub></p>
+      <p><sub><b>Mobile platforms:</b> Google Play · App Store · Deep linking · Push notifications</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>⚙️ Architecture &amp; delivery</h3>
       <p>
         <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img alt="GitHub Actions" src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
         <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       </p>
-      <p><sub>Clean architecture · State management · Widget &amp; unit testing · CI/CD · REST APIs · Release engineering</sub></p>
+      <p><sub>Clean architecture · State management · Widget &amp; unit testing · CI/CD · REST APIs · SaaS &amp; multi-tenant systems · Release engineering</sub></p>
     </td>
   </tr>
 </table>
