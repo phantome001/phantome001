@@ -8,7 +8,7 @@
   <p>
     <a href="https://github.com/phantome001"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@phantome001-0D1117?style=flat-square&logo=github&logoColor=white&label=GitHub" /></a>
     <a href="https://pub.dev/publishers/thodz.com/packages"><img alt="pub.dev publisher" src="https://img.shields.io/badge/pub.dev-thodz.com-0175C2?style=flat-square&logo=dart&logoColor=white&label=publisher" /></a>
-    <a href="https://pub.dev/packages/hijri_toolkit"><img alt="4 packages" src="https://img.shields.io/badge/packages-4%20published-0175C2?style=flat-square&logo=dart&logoColor=white" /></a>
+    <a href="https://pub.dev/publishers/thodz.com/packages"><img alt="8 packages" src="https://img.shields.io/badge/packages-8%20published-0175C2?style=flat-square&logo=dart&logoColor=white" /></a>
     <a href="https://github.com/flutter/flutter/pull/197215"><img alt="Flutter PR" src="https://img.shields.io/badge/PR-%23197215-42A5F5?style=flat-square&logo=flutter&logoColor=white&label=flutter%2Fflutter" /></a>
     <a href="https://cseifeddine.tech/"><img alt="Blog" src="https://img.shields.io/badge/Blog-cseifeddine.tech-1F6FEB?style=flat-square&logo=rss&logoColor=white&label=Blog" /></a>
     <a href="https://medium.com/@cheddine27"><img alt="Medium" src="https://img.shields.io/badge/Medium-@cheddine27-000000?style=flat-square&logo=medium&logoColor=white" /></a>
@@ -138,7 +138,8 @@ Pull requests currently under review in the frameworks I depend on:
 
 I document the problems I solve — package releases, framework contributions, and mobile engineering notes — on [**Medium**](https://medium.com/@cheddine27) and [**cseifeddine.tech**](https://cseifeddine.tech/).
 
-**Latest article:** [**I Contributed to flutter/flutter — Here's How I Did It**](https://medium.com/@cheddine27/i-contributed-to-flutter-flutter-heres-how-i-did-it-e63cdec51134) — how a six-year-old `PageController` issue became my first framework PR.
+- **Latest:** [**I Built a Flutter CLI That Catches Build Failures Before Gradle Does**](https://medium.com/@cheddine27/i-built-a-flutter-cli-that-catches-build-failures-before-gradle-does-cf300431b247) — how a pure Dart CLI diagnoses Android and iOS configuration problems with no plugins and no native code.
+- [**I Contributed to flutter/flutter — Here's How I Did It**](https://medium.com/@cheddine27/i-contributed-to-flutter-flutter-heres-how-i-did-it-e63cdec51134) — how a six-year-old `PageController` issue became my first framework PR.
 
 ---
 
