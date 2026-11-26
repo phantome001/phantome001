@@ -12,7 +12,7 @@
     <a href="https://github.com/flutter/flutter/pull/197215"><img alt="Flutter PR" src="https://img.shields.io/badge/PR-%23197215-42A5F5?style=flat-square&logo=flutter&logoColor=white&label=flutter%2Fflutter" /></a>
     <a href="https://cseifeddine.tech/"><img alt="Blog" src="https://img.shields.io/badge/Blog-cseifeddine.tech-1F6FEB?style=flat-square&logo=rss&logoColor=white&label=Blog" /></a>
     <a href="https://medium.com/@cheddine27"><img alt="Medium" src="https://img.shields.io/badge/Medium-@cheddine27-000000?style=flat-square&logo=medium&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/seifeddine"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/seifeddine-ch-175466264/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   </p>
 </div>
 
