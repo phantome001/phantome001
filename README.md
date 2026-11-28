@@ -138,7 +138,8 @@ Pull requests currently under review in the frameworks I depend on:
 
 I document the problems I solve — package releases, framework contributions, and mobile engineering notes — on [**Medium**](https://medium.com/@cheddine27) and [**cseifeddine.tech**](https://cseifeddine.tech/).
 
-- **Latest:** [**I Built a Context-Free Toast Package for Flutter — With an Offline Queue**](https://medium.com/@cheddine27/i-built-a-context-free-toast-package-for-flutter-with-an-offline-queue-b25dff0b550b) — how `api_overlay_toast` turns REST and WebSocket payloads into overlays and queues failed requests offline.
+- **Latest:** [**One Line to Make Any Flutter Widget Feel Alive**](https://medium.com/@cheddine27/one-line-to-make-any-flutter-widget-feel-alive-2a13f4548843) — how `expressive_press` brings Material 3 Expressive spring press to any widget with zero dependencies.
+- [**I Built a Context-Free Toast Package for Flutter — With an Offline Queue**](https://medium.com/@cheddine27/i-built-a-context-free-toast-package-for-flutter-with-an-offline-queue-b25dff0b550b) — how `api_overlay_toast` turns REST and WebSocket payloads into overlays and queues failed requests offline.
 - [**I Built a Flutter CLI That Catches Build Failures Before Gradle Does**](https://medium.com/@cheddine27/i-built-a-flutter-cli-that-catches-build-failures-before-gradle-does-cf300431b247) — how a pure Dart CLI diagnoses Android and iOS configuration problems with no plugins and no native code.
 - [**I Contributed to flutter/flutter — Here's How I Did It**](https://medium.com/@cheddine27/i-contributed-to-flutter-flutter-heres-how-i-did-it-e63cdec51134) — how a six-year-old `PageController` issue became my first framework PR.
 
